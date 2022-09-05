@@ -8,6 +8,7 @@ Please cite this paper if you use the scrips or code.
 Instructions:
 There are 7 steps to generate a tissue unbiased brain FOD and tractogram template. You will need T1w/T2w and Diffusion MRI to do so. HCP data is used for this paper.
 Step 1: 1_preprocessing.sh
+
         Preprocessing the Diffusion MRI. 
         The current script is developed after the HCP minimal preprocessing pipeline.
         
