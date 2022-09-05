@@ -2,7 +2,9 @@
 
 
 This repository releases the code for the following preprint paper.
+
 Lv, Jinglei, Rui Zeng, Mai Phuong Ho, Arkiev D'Souza, and Fernando Calamante. "Building a Tissue-unbiased Brain Template of Fibre Orientation Distribution and Tractography with Multimodal Registration." bioRxiv (2022).
+
 Please cite this paper if you use the scrips or code. License: CC0 1.0 Universal.
 
 Instructions:
@@ -39,5 +41,6 @@ Step 7: 7_fiber_tracking.sh
       Anatomically constrained fibre tracking is used to generate the tractogram template.
 
 
-Please cite this paper if you use the scrips or code.     
+Please cite this paper if you use the scrips or code.  
+
 Lv, Jinglei, Rui Zeng, Mai Phuong Ho, Arkiev D'Souza, and Fernando Calamante. "Building a Tissue-unbiased Brain Template of Fibre Orientation Distribution and Tractography with Multimodal Registration." bioRxiv (2022).
