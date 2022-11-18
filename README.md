@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/16005941/188344220-2a042d96-a471-4e5c-9d00-dd80ddf53835.png)
 
 
-This repository releases the code for the following preprint paper.
+This repository releases the code for the following paper.
 
 Lv, J, Zeng, R, Ho, MP, D'Souza, A, Calamante, F. Building a tissue-unbiased brain template of fiber orientation distribution and tractography with multimodal registration. Magn Reson Med. 2022; 1- 14. doi:10.1002/mrm.29496.
 
