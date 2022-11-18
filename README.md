@@ -3,7 +3,8 @@
 
 This repository releases the code for the following preprint paper.
 
-Lv, Jinglei, Rui Zeng, Mai Phuong Ho, Arkiev D'Souza, and Fernando Calamante. "Building a Tissue-unbiased Brain Template of Fibre Orientation Distribution and Tractography with Multimodal Registration." bioRxiv (2022).
+Lv, J, Zeng, R, Ho, MP, D'Souza, A, Calamante, F. Building a tissue-unbiased brain template of fiber orientation distribution and tractography with multimodal registration. Magn Reson Med. 2022; 1- 14. doi:10.1002/mrm.29496.
+
 
 Our tempalte is open source at https://osf.io/n4kgf/ 
 
